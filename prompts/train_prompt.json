@@ -1,0 +1,68 @@
+{
+    "asr": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "asr_zh": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "asr_de": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "translation_ec": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "audiocaption": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "audiocaption_v2": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "inference_QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "gender_QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "gender_recognition": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "phone_recognition": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "speech_separation": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "emotion_recognition": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "music_description": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "speaker_verification": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "audio_story_telling": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "speaker_diarization_asr": [
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "gender_and_asr":[
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "asr_and_gender":[
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "emotion_gender":[
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "gender_emotion":[
+        "<Speech><SpeechHere></Speech> "
+    ],
+    "asr_gender_jsonstyle": [
+        "<Speech><SpeechHere></Speech> "
+    ]
+}
